@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If you use this software or dataset, please cite it using these metadata."
+title: "Diabetic Research: Telemetry and Metabolic Modeling"
+abstract: "Computational analysis framework and biometric telemetry pipeline for modeling glycemic dynamics and metabolic indicators."
+type: software
+authors:
+  - family-names: "Noffels"
+    given-names: "Bram Emmanuel"
+    orcid: "https://orcid.org/0009-0006-1444-6574"
+repository-code: "https://github.com/3mm4nu3l/Diabetic-Research"
+license: "MIT"
+version: "1.0.0"
+date-released: "2026-11-15"
+keywords:
+  - "diabetes research"
+  - "glycemic modeling"
+  - "biomedical informatics"
+  - "metabolic telemetry"
